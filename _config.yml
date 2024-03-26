@@ -51,10 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   Vous pouvez découvrir mes cours de philosophie, de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io).
 
-  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques) et [mes romans-jeunesse](#romans).
+  Ci-dessous, vous trouverez [mon parcours](#parcours), [mes actions pédagogiques](#actions) et [mes romans-jeunesse](#romans).
 
 content:
-  - title: Projects # Title for the section
+  - title: Parcours # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -73,7 +73,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: Actions # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
