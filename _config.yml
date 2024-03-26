@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   Vous pouvez découvrir mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io){:target="_blank" }.
 
-  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques).
+  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel) et [mes actions pédagogiques](#actions-pédagogiques).
   
-  J'écris de plus depuis 2007 des [romans-jeunesse](#romans) publiés aux éditions Sarbacane, Casterman et Lunii.
+  J'écris depuis 2007 des [romans-jeunesse](#romans) publiés aux éditions Sarbacane, Casterman et Lunii.
 
 content:
   - title: Parcours professionnel # Title for the section
@@ -78,12 +78,13 @@ content:
     content:
       - layout: left
         title: Ateliers philosophie 
-        link: rollauda.github.io
+        # link: rollauda.github.io
         # link_text: rollauda.github.io
-        sub_title: Rencontres philosophiques entre élèves de Terminale et de CM2.
+        # sub_title: 
         caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-            Description : méthode + podcasts
+            Rencontres philosophiques entre élèves de Terminale et de CM2.  
+            Lien : [Ateliers philo](rollauda.github.io){:target="_blank" }
 
       - layout: left
         title: Podcasts d'élèves 
