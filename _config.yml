@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 about_title: À propos
-about_profile_image: images/profil.jpeg
+about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   <br> Bonjour. Je suis professeur de philosophie au Lycée français La Condamine (Quito, Équateur). 
 
@@ -73,7 +73,7 @@ content:
         title: Professeur d'histoire-géographie
         caption: 2018 - 2022
         description: | # this will include new lines to allow paragraphs
-          - Équateur (Quito) : Professeur local d'histoire-géographie (6°, 4°, 3°) 
+          - Équateur (Quito) : Professeur en contrat local d'histoire-géographie (6°, 4°, 3°) 
 
   - title: Actions pédagogiques # Title for the section
     layout: list # Type of content section (list/text)
