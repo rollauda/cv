@@ -59,20 +59,26 @@ content:
   - title: Parcours professionnel # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         title: Professeur de philosophie
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
           - France (Académies de Besançon, de Grenoble) :1997 - 2002
-          - Équateur (Quito) : 2003-2006
+          - Équateur (Quito) : professeur résident, 2003-2006
           - Algérie (Alger) : 2007 - 2009
           - France (Académies de Bordeaux, de Montpellier) : 2009 - 2018
-          - Équateur (Quito) : 2022 → Aujourd'hui 
+          - Équateur (Quito) : professeur détaché, 2022 → Aujourd'hui 
+
+      - layout: left
+        title: Professeur d'histoire-géographie
+        caption: 2018 - 2022
+        description: | # this will include new lines to allow paragraphs
+          - Équateur (Quito) : Professeur local d'histoire-géographie (6°, 4°, 3°) 
 
   - title: Actions pédagogiques # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Ateliers philosophie 
         # link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -82,7 +88,7 @@ content:
             Rencontres philosophiques entre élèves de Terminale et de CM2.  
             Lien : [Ateliers philo](rollauda.github.io){:target="_blank" }
 
-      - layout: left
+      - layout: right
         title: Podcasts d'élèves 
         link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -91,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Description
 
-      - layout: left
+      - layout: right
         title: Reconstitutions de procès 
         link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -101,7 +107,7 @@ content:
             - 2023 : L'Humanité contre la Nature
             - 2024 : Le procès de Jacqueline Sauvage
 
-      - layout: left
+      - layout: right
         title: ROrganisation de conférences 
         link: rollauda.github.io
         # link_text: rollauda.github.io
