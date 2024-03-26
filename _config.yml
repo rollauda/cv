@@ -51,7 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   Vous pouvez découvrir mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io).
 
-  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques) et [mes romans-jeunesse](#romans).
+  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques).
+  
+  J'écris de plus depuis 2007 des [romans-jeunesse](#romans).
 
 content:
   - title: Parcours professionnel # Title for the section
