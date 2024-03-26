@@ -29,10 +29,10 @@ darkmode: false
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: rollauda.github.io
-  icon: fas fa-globe
-  url: https://rollauda.github.io
+# additional_links:
+# - title: rollauda.github.io
+#  icon: fas fa-globe
+#  url: https://rollauda.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -140,14 +140,14 @@ content:
   - title: Diplômes
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - - Maîtrise de philosophie (1994)
+      - Maîtrise de philosophie (1994)
       - CAPES de philosophie (1995)
       - Certification DNL espagnol / philosophie (2010)
       - Certification Cinéma-Audiovisuel (2019)
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Réferences sur demande
 
 # Build settings
 remote_theme: sproogen/resume-theme
