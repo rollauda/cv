@@ -80,8 +80,8 @@ content:
         title: Ateliers philosophie 
         link: rollauda.github.io
         # link_text: rollauda.github.io
-        sub_title: rencontres philosophiques entre élèves de Terminale et de CM2.
-        caption: De 2023 à aujourd'hui
+        sub_title: Rencontres philosophiques entre élèves de Terminale et de CM2.
+        caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
             Description : méthode + podcasts
 
@@ -89,8 +89,27 @@ content:
         title: Podcasts d'élèves 
         link: rollauda.github.io
         # link_text: rollauda.github.io
-        sub_title: rencontres philosophiques entre élèves de Terminale et de CM2.
-        caption: De 2023 à aujourd'hui
+        sub_title: Productions audio d'élèves dans le cadre des cours de philosophie (HLP)
+        caption: 2023 - 2024
+        description: | # this will include new lines to allow paragraphs
+            Description
+
+      - layout: left
+        title: Reconstitutions de procès 
+        link: rollauda.github.io
+        # link_text: rollauda.github.io
+        sub_title: EN Option DGEMC, nous avons reconstitué des procès.
+        caption: 2022 - 2024
+        description: | # this will include new lines to allow paragraphs
+            - 2023 : L'Humanité contre la Nature
+            - 2024 : Le procès de Jacqueline Sauvage
+
+      - layout: left
+        title: ROrganisation de conférences 
+        link: rollauda.github.io
+        # link_text: rollauda.github.io
+        sub_title: EN Option DGEMC, nous avons organisé des conférences.
+        caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
             Description
 
