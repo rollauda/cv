@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Vous pouvez découvrir mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io){:target="_blank" }.
 
-  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques) et [mes diplômes](#diplomes).
+  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques) et [mes diplômes](#diplômes).
   
   J'écris depuis 2007 des [romans-jeunesse](#romans) publiés aux éditions Sarbacane, Casterman et Lunii.
 
@@ -115,7 +115,7 @@ content:
             - 2024 : Le procès de Jacqueline Sauvage
 
       - layout: right
-        title: ROrganisation de conférences 
+        title: Organisation de conférences 
         link: rollauda.github.io
         # link_text: rollauda.github.io
         sub_title: EN Option DGEMC, nous avons organisé des conférences.
