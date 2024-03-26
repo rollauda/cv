@@ -7,9 +7,8 @@ version: 2
 
 # Personal info
 name: Rolland Auda
-title: Professeur de philosophie et cinéma
+title: Professeur de philosophie et de cinéma
 email: auda.rolland@condamine.edu.ec
-website: https;//rollauda.github.io/cv
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,9 +30,9 @@ github_username:  rollauda
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: rollauda.github.io
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://rollauda.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
