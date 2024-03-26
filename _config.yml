@@ -44,7 +44,7 @@ darkmode: false
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: À propos
+about_title: Présentation
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   <br> Bonjour. Je suis professeur de philosophie au Lycée français La Condamine (Quito, Équateur). 
