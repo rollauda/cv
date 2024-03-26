@@ -63,10 +63,10 @@ content:
         title: Professeur de philosophie
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          - France (Académies de Besançon, de Grenoble) :1997 - 2002
+          - France (Académies de Besançon et de Grenoble) :1997 - 2002
           - Équateur (Quito) : professeur résident, 2003-2006
           - Algérie (Alger) : 2007 - 2009
-          - France (Académies de Bordeaux, de Montpellier) : 2009 - 2018
+          - France (Académies de Bordeaux et de Montpellier) : 2009 - 2018
           - Équateur (Quito) : professeur détaché, 2022 → Aujourd'hui 
 
       - layout: left
@@ -74,6 +74,13 @@ content:
         caption: 2018 - 2022
         description: | # this will include new lines to allow paragraphs
           - Équateur (Quito) : Professeur en contrat local d'histoire-géographie (6°, 4°, 3°) 
+
+      - layout: left
+        title: Journaliste
+        caption: 1995 - 1997
+        description: | # this will include new lines to allow paragraphs
+          - Radio Marseillette (Aude) : service civil : présentation du journal local et émission littéraire
+          - Pigiste en presse écrite (La Dépêche du Midi ; L’Audyssée des 7-13 ans) 
 
   - title: Actions pédagogiques # Title for the section
     layout: list # Type of content section (list/text)
@@ -130,16 +137,13 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Diplômes
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-
+      - - Maîtrise de philosophie (1994)
+      - CAPES de philosophie (1995)
+      - Certification DNL espagnol / philosophie (2010)
+      - Certification Cinéma-Audiovisuel (2019)
 
 # Footer
 footer_show_references: true
