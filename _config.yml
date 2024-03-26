@@ -49,6 +49,10 @@ about_profile_image: images/profil.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Bonjour. Je suis professeur de philosophie et de cinéma au Lycée français La Condamine (Quito, Équateur). 
 
+  Vous pouvez découvrir mes cours de philosophie, de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io).
+
+  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques) et [mes romans-jeunesse](#romans).
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
