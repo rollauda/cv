@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profil.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Bonjour. Je suis professeur de philosophieau Lycée français La Condamine (Quito, Équateur). 
+  <br> Bonjour. Je suis professeur de philosophieau Lycée français La Condamine (Quito, Équateur). 
 
   Vous pouvez découvrir mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io).
 
