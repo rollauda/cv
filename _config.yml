@@ -59,19 +59,15 @@ content:
   - title: Parcours professionnel # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      - layout: right
+        title: Professeur de philosophie
+        caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - France (Académies de Besançon, de Grenoble) :1997 - 2002
+          - Équateur (Quito) : 2003-2006
+          - Algérie (Alger) : 2007 - 2009
+          - France (Académies de Bordeaux, de Montpellier) : 2009 - 2018
+          - Équateur (Quito) : 2022 → Aujourd'hui 
 
   - title: Actions pédagogiques # Title for the section
     layout: list # Type of content section (list/text)
