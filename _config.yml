@@ -77,12 +77,14 @@ content:
           - **Équateur** (Quito) : professeur détaché, 2022 → Aujourd'hui 
 
       - layout: left
+        border: weak
         title: Professeur d'histoire-géographie
         caption: 2018 - 2022
         description: | # this will include new lines to allow paragraphs
           - **Équateur** (Quito) : Professeur en contrat local d'histoire-géographie (6°, 4°, 3°) 
 
       - layout: left
+        border: weak
         title: Journaliste
         caption: 1995 - 1997
         description: | # this will include new lines to allow paragraphs
@@ -93,6 +95,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Ateliers de philosophie 
         # link: rollauda.github.io
         # link_text: Lien vers les ateliers
@@ -105,6 +108,7 @@ content:
             - 2024 : [Qu'est-ce que la beauté ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Amandine Tarter)  
 
       - layout: left
+        border: weak
         title: Podcasts d'élèves 
         # link: rollauda.github.io
         # link_text: Lien vers les podcasts
@@ -115,6 +119,7 @@ content:
             - Podcast commun HLP - SES : ["Qui suis-je ?"](https://rollauda.github.io){:target="_blank" }
 
       - layout: left
+        border: weak
         title: Reconstitutions de procès 
         link: rollauda.github.io/dgemc
         link_text: Site de l'option DGEMC
@@ -125,6 +130,7 @@ content:
             - 2023 : L'Humanité contre la Nature
 
       - layout: left
+        border: weak
         title: Organisation de conférences 
         link: rollauda.github.io/dgemc
         link_text: Site de l'option DGEMC
@@ -135,6 +141,7 @@ content:
             - 2023 : Le féminicide 
 
       - layout: left
+        border: weak
         title: Ateliers d'écriture 
         link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -148,6 +155,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Sarbacane
         link: https://editions-sarbacane.com/auteurs/rolland-auda
         link_text: Ma page Sarbacane
@@ -161,6 +169,7 @@ content:
           - **Les Picapoches** (2021)
 
       - layout: left
+        border: weak
         title: Casterman
         link: https://www.casterman.com/Jeunesse/Auteurs/auda-rolland
         link_text: Ma page Casterman
@@ -171,6 +180,7 @@ content:
 
       - layout: left
         title: Lunii
+        border: weak
         link: https://lunii.com/fr-fr/luniistore-catalogue-flam/panique-robotique/
         link_text: Ma page Lunii
         # caption: 1995 - 1997
