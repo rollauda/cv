@@ -110,8 +110,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             **Rencontres philosophiques entre élèves de Terminale et de CM2.**   
             Chaque année, mes élèves de Terminale se joignent à une classe de CM1-CM2 pour un atelier philosophie.  
-            - 2024 : [Qu'est-ce que la beauté ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Amandine Tarter)  
-            - 2023 : [Qu'est-ce qu'une grande personne ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Marion Huirois)
+            - 2024 : Qu'est-ce que la beauté ? (avec les classes d'Olivier Pie et Amandine Tarter)  
+            - 2023 : Qu'est-ce qu'une grande personne ? (avec les classes d'Olivier Pie et Marion Huirois)
       - layout: left
         border: weak
         title: Podcasts d'élèves 
@@ -120,8 +120,8 @@ content:
         # caption: 2023 - 2024
         description: | # this will include new lines to allow paragraphs
            **Productions audio d'élèves dans le cadre des cours de philosophie (HLP)**  
-            - Complément du cours de philosophie : ["Doit-on avoir pitié ?"](https://rollauda.github.io){:target="_blank" }
-            - Podcast commun HLP - SES : ["Qui suis-je ?"](https://rollauda.github.io){:target="_blank" }
+            - Complément du cours de philosophie : "Doit-on avoir pitié ?"
+            - Podcast commun HLP - SES : "Qui suis-je ?"
 
       - layout: left
         border: weak
