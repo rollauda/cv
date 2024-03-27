@@ -7,8 +7,14 @@ version: 2
 
 # Personal info
 name: Rolland Auda
-title: Professeur de philosophie et de cinéma
-# email: auda.rolland@condamine.edu.ec
+title: Professeur de philosophie et écrivain
+# email: 
+email: auda.rolland@condamine.edu.ec
+email_title: Email
+# phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+website: https://rollauda.github.io
+website_title: Site des leçons
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -60,6 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak  
         title: Professeur de philosophie
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
@@ -90,7 +97,7 @@ content:
         # link: rollauda.github.io
         # link_text: Lien vers les ateliers
         # sub_title: 
-        caption: 2022 - 2024
+        # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
             **Rencontres philosophiques entre élèves de Terminale et de CM2.**   
             Chaque année, mes élèves de Terminale se joignent à une classe de CM1-CM2 pour un atelier philosophie.  
@@ -101,7 +108,7 @@ content:
         title: Podcasts d'élèves 
         # link: rollauda.github.io
         # link_text: Lien vers les podcasts
-        caption: 2023 - 2024
+        # caption: 2023 - 2024
         description: | # this will include new lines to allow paragraphs
             **Productions audio d'élèves dans le cadre des cours de philosophie (HLP)**  
             - Complément du cours de philosophie : ["Doit-on avoir pitié ?"](https://rollauda.github.io){:target="_blank" }
@@ -111,9 +118,9 @@ content:
         title: Reconstitutions de procès 
         link: rollauda.github.io/dgemc
         link_text: Site de l'option DGEMC
-        sub_title: EN Option DGEMC, j'organise chaque année avec les élèves la reconstitution d'un procès.
-        caption: 2022 - 2024
+        # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
+          EN Option DGEMC, j'organise chaque année avec les élèves la reconstitution d'un procès.    
             - 2024 : Le procès de Jacqueline Sauvage
             - 2023 : L'Humanité contre la Nature
 
@@ -121,9 +128,9 @@ content:
         title: Organisation de conférences 
         link: rollauda.github.io/dgemc
         link_text: Site de l'option DGEMC
-        sub_title: EN Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.
-        caption: 2022 - 2024
+        # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
+          En Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.  
             - 2024 : Le dopage
             - 2023 : Le féminicide 
 
@@ -131,12 +138,45 @@ content:
         title: Ateliers d'écriture 
         link: rollauda.github.io
         # link_text: rollauda.github.io
-        caption: 2015 - 2023
+        # caption: 2015 - 2023
         description: | # this will include new lines to allow paragraphs
             - 2018 : Roman collectif de science fiction en 3° (Quito, Équateur)
-            - 2015 : Écoles primaire Calandreta de Nîmes (30)
+            - 2015 : École primaire Calandreta de Nîmes (30)
             - 2010 - 2018 : Ateliers dans des salons du livre (Besançon, Troyes, Rennes)
 
+  - title: Romans # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Sarbacane
+        link: https://editions-sarbacane.com/auteurs/rolland-auda
+        link_text: Ma page Sarbacane
+        # caption: 2007 → Aujourd'hui
+        description: | # this will include new lines to allow paragraphs
+          - **Gringo Shaman** (2008)
+          - **Le dévastateur** (2011)
+          - **L'Équipée volage** (2013)
+          - **Lola et la machine à laver le temps** (2016)
+          - **Le Gouffre** (2018)
+          - **Les Picapoches** (2021)
+
+      - layout: left
+        title: Casterman
+        link: https://www.casterman.com/Jeunesse/Auteurs/auda-rolland
+        link_text: Ma page Casterman
+        # caption: 2021 → Aujourd'hui
+        description: | # this will include new lines to allow paragraphs
+          - **L'amie du sous-sol** (2021)
+          - **La Vallée fantôme** (2022) 
+
+      - layout: left
+        title: Lunii
+        link: https://lunii.com/fr-fr/luniistore-catalogue-flam/panique-robotique/
+        link_text: Ma page Lunii
+        # caption: 1995 - 1997
+        description: | # this will include new lines to allow paragraphs
+          - **Panique Robotique** (2023) : livre audio, à écouter sur l'appareil FLAM de l'éditeur Lunii
+  
   - title: Diplômes
     layout: text
     content: | # this will include new lines to allow paragraphs
