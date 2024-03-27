@@ -87,10 +87,8 @@ content:
     content:
       - layout: left
         title: Ateliers philosophie 
-        link: https://drive.google.com/file/d/1W_BOIws6OlEpqjUhTjCl7a3OMDuoBlwr/view?usp=drive_link
-        link_text: enregistrement 2023
-        link: https://drive.google.com/file/d/1W_BOIws6OlEpqjUhTjCl7a3OMDuoBlwr/view?usp=drive_link
-        link_text: enregistrement 2024
+        link: rollauda.github.io
+        link_text: Lien vers les ateliers
         # sub_title: 
         caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
@@ -104,11 +102,12 @@ content:
       - layout: left
         title: Podcasts d'élèves 
         link: rollauda.github.io
-        # link_text: rollauda.github.io
-        sub_title: Productions audio d'élèves dans le cadre des cours de philosophie (HLP)
+        link_text: Lien vers les podcasts
         caption: 2023 - 2024
         description: | # this will include new lines to allow paragraphs
-            Description
+            **Productions audio d'élèves dans le cadre des cours de philosophie (HLP)**  
+            - Complément du cours de philosophie
+            - Podcast commun HLP / SES
 
       - layout: left
         title: Reconstitutions de procès 
