@@ -85,7 +85,7 @@ content:
   - title: Actions pédagogiques # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         title: Ateliers philosophie 
         # link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -95,7 +95,7 @@ content:
             Rencontres philosophiques entre élèves de Terminale et de CM2.  
             Lien : [Ateliers philo](rollauda.github.io){:target="_blank" }
 
-      - layout: right
+      - layout: left
         title: Podcasts d'élèves 
         link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -104,7 +104,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Description
 
-      - layout: right
+      - layout: left
         title: Reconstitutions de procès 
         link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -114,7 +114,7 @@ content:
             - 2023 : L'Humanité contre la Nature
             - 2024 : Le procès de Jacqueline Sauvage
 
-      - layout: right
+      - layout: left
         title: Organisation de conférences 
         link: rollauda.github.io
         # link_text: rollauda.github.io
