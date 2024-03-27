@@ -72,12 +72,11 @@ content:
         title: Professeur de philosophie
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          - **France** (Académies de Besançon et de Grenoble) : 1997 - 2002
-          - **Équateur** (Quito) : professeur résident, 2003-2006
-          - **Algérie** (Alger) : 2007 - 2009
-          - **France** (Académies de Bordeaux et de Montpellier) : 2009 - 2018
           - **Équateur** (Quito) : professeur détaché, 2022 → Aujourd'hui 
-
+          - **France** (Académies de Bordeaux et de Montpellier) : 2009 - 2018
+          - **Algérie** (Alger) : 2007 - 2009
+          - **Équateur** (Quito) : professeur résident, 2003-2006
+          - **France** (Académies de Besançon et de Grenoble) : 1997 - 2002
       - layout: left
         border: weak
         title: Professeur d'histoire-géographie
@@ -86,7 +85,6 @@ content:
           - **Équateur** (Quito) : Professeur en contrat local d'histoire-géographie (6°, 4°, 3°) 
 
       - layout: left
-        border: weak
         title: Journaliste
         caption: 1995 - 1997
         description: | # this will include new lines to allow paragraphs
@@ -106,9 +104,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             **Rencontres philosophiques entre élèves de Terminale et de CM2.**   
             Chaque année, mes élèves de Terminale se joignent à une classe de CM1-CM2 pour un atelier philosophie.  
-            - 2023 : [Qu'est-ce qu'une grande personne ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Marion Huirois)
             - 2024 : [Qu'est-ce que la beauté ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Amandine Tarter)  
-
+            - 2023 : [Qu'est-ce qu'une grande personne ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Marion Huirois)
       - layout: left
         border: weak
         title: Podcasts d'élèves 
@@ -127,7 +124,7 @@ content:
         link_text: Site de l'option DGEMC
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-          EN Option DGEMC, j'organise chaque année avec les élèves la reconstitution d'un procès.    
+          **EN Option DGEMC, j'organise chaque année avec les élèves la reconstitution d'un procès.**    
             - 2024 : Le procès de Jacqueline Sauvage
             - 2023 : L'Humanité contre la Nature
 
@@ -138,12 +135,11 @@ content:
         link_text: Site de l'option DGEMC
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-          En Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.  
+          **En Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.**  
             - 2024 : Le dopage
             - 2023 : Le féminicide 
 
       - layout: left
-        border: weak
         title: Ateliers d'écriture 
         link: rollauda.github.io
         # link_text: rollauda.github.io
@@ -177,12 +173,11 @@ content:
         link_text: Ma page Casterman
         # caption: 2021 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          - **L'amie du sous-sol** (2021)
+          - **L'amie du sous-sol** (2020)
           - **La Vallée fantôme** (2022) 
 
       - layout: left
         title: Lunii
-        border: weak
         link: https://lunii.com/fr-fr/luniistore-catalogue-flam/panique-robotique/
         link_text: Ma page Lunii
         # caption: 1995 - 1997
