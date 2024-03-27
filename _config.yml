@@ -87,16 +87,18 @@ content:
     content:
       - layout: left
         title: Ateliers philosophie 
-        # link: rollauda.github.io
-        # link_text: rollauda.github.io
+        link: https://drive.google.com/file/d/1W_BOIws6OlEpqjUhTjCl7a3OMDuoBlwr/view?usp=drive_link
+        link_text: enregistrement 2023
+        link: https://drive.google.com/file/d/1W_BOIws6OlEpqjUhTjCl7a3OMDuoBlwr/view?usp=drive_link
+        link_text: enregistrement 2024
         # sub_title: 
         caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
             **Rencontres philosophiques entre élèves de Terminale et de CM2.**   
-            Chaque année, mes élèves de Terminale se joigent à une classe de CM1-CM2 pour un atelier philosophie.  
+            Chaque année, mes élèves de Terminale se joignent à une classe de CM1-CM2 pour un atelier philosophie.  
             - 2023 : Qu'est-ce qu'une grande personne ? (avec les classes d'Olivier Pie et Marion Huirois)
             - 2024 : Qu'est-ce que la beauté ? (avec les classes d'Olivier Pie et Amandine Tarter)  
-             
+
             Lien : [enregistrement 2023](https://drive.google.com/file/d/1W_BOIws6OlEpqjUhTjCl7a3OMDuoBlwr/view?usp=drive_link){:target="_blank" }
 
       - layout: left
@@ -124,6 +126,15 @@ content:
         # link_text: rollauda.github.io
         sub_title: EN Option DGEMC, nous avons organisé des conférences.
         caption: 2022 - 2024
+        description: | # this will include new lines to allow paragraphs
+            Description
+
+      - layout: left
+        title: Ateliers d'écriture 
+        link: rollauda.github.io
+        # link_text: rollauda.github.io
+        sub_title: Productions audio d'élèves dans le cadre des cours de philosophie (HLP)
+        caption: 2023 - 2024
         description: | # this will include new lines to allow paragraphs
             Description
 
