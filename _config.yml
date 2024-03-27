@@ -63,7 +63,7 @@ content:
         title: Professeur de philosophie
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          - France (Académies de Besançon et de Grenoble) :1997 - 2002
+          - **France** (Académies de Besançon et de Grenoble) :1997 - 2002
           - Équateur (Quito) : professeur résident, 2003-2006
           - Algérie (Alger) : 2007 - 2009
           - France (Académies de Bordeaux et de Montpellier) : 2009 - 2018
