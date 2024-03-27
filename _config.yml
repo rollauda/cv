@@ -64,23 +64,23 @@ content:
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
           - **France** (Académies de Besançon et de Grenoble) :1997 - 2002
-          - Équateur (Quito) : professeur résident, 2003-2006
-          - Algérie (Alger) : 2007 - 2009
-          - France (Académies de Bordeaux et de Montpellier) : 2009 - 2018
-          - Équateur (Quito) : professeur détaché, 2022 → Aujourd'hui 
+          - **Équateur** (Quito) : professeur résident, 2003-2006
+          - **Algérie** (Alger) : 2007 - 2009
+          - **France** (Académies de Bordeaux et de Montpellier) : 2009 - 2018
+          - **Équateur** (Quito) : professeur détaché, 2022 → Aujourd'hui 
 
       - layout: left
         title: Professeur d'histoire-géographie
         caption: 2018 - 2022
         description: | # this will include new lines to allow paragraphs
-          - Équateur (Quito) : Professeur en contrat local d'histoire-géographie (6°, 4°, 3°) 
+          - **Équateur** (Quito) : Professeur en contrat local d'histoire-géographie (6°, 4°, 3°) 
 
       - layout: left
         title: Journaliste
         caption: 1995 - 1997
         description: | # this will include new lines to allow paragraphs
-          - Radio Marseillette (Aude) : service civil : présentation du journal local et émission littéraire
-          - Pigiste en presse écrite (La Dépêche du Midi ; L’Audyssée des 7-13 ans) 
+          - **Radio Marseillette** (Aude) : service civil : présentation du journal local et d'une émission littéraire
+          - **Pigiste en presse écrite** (La Dépêche du Midi ; L’Audyssée des 7-13 ans) 
 
   - title: Actions pédagogiques # Title for the section
     layout: list # Type of content section (list/text)
@@ -93,7 +93,7 @@ content:
         caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
             Rencontres philosophiques entre élèves de Terminale et de CM2.  
-            Lien : [Ateliers philo](rollauda.github.io){:target="_blank" }
+            Lien : [Ateliers philo](https://rollauda.github.io){:target="_blank" }
 
       - layout: left
         title: Podcasts d'élèves 
