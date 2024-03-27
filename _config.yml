@@ -63,9 +63,9 @@ content:
         title: Professeur de philosophie
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          - **France** (Académies de Besançon et de Grenoble) :1997 - 2002
-          - **Équateur** (Quito) : professeur résident, 2003-2006
-          - **Algérie** (Alger) : 2007 - 2009
+          - **France** (Académies de Besançon et de Grenoble) : 1997 - 2002
+          - **Équateur** (Quito) : professeur résident, 2003-2006
+          - **Algérie** (Alger) : 2007 - 2009
           - **France** (Académies de Bordeaux et de Montpellier) : 2009 - 2018
           - **Équateur** (Quito) : professeur détaché, 2022 → Aujourd'hui 
 
@@ -86,56 +86,56 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Ateliers philosophie 
-        link: rollauda.github.io
-        link_text: Lien vers les ateliers
+        title: Ateliers de philosophie 
+        # link: rollauda.github.io
+        # link_text: Lien vers les ateliers
         # sub_title: 
         caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
             **Rencontres philosophiques entre élèves de Terminale et de CM2.**   
             Chaque année, mes élèves de Terminale se joignent à une classe de CM1-CM2 pour un atelier philosophie.  
-            - 2023 : Qu'est-ce qu'une grande personne ? (avec les classes d'Olivier Pie et Marion Huirois)
-            - 2024 : Qu'est-ce que la beauté ? (avec les classes d'Olivier Pie et Amandine Tarter)  
-
-            Lien : [enregistrement 2023](https://drive.google.com/file/d/1W_BOIws6OlEpqjUhTjCl7a3OMDuoBlwr/view?usp=drive_link){:target="_blank" }
+            - 2023 : [Qu'est-ce qu'une grande personne ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Marion Huirois)
+            - 2024 : [Qu'est-ce que la beauté ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Amandine Tarter)  
 
       - layout: left
         title: Podcasts d'élèves 
-        link: rollauda.github.io
-        link_text: Lien vers les podcasts
+        # link: rollauda.github.io
+        # link_text: Lien vers les podcasts
         caption: 2023 - 2024
         description: | # this will include new lines to allow paragraphs
             **Productions audio d'élèves dans le cadre des cours de philosophie (HLP)**  
-            - Complément du cours de philosophie
-            - Podcast commun HLP / SES
+            - Complément du cours de philosophie : ["Doit-on avoir pitié ?"](https://rollauda.github.io){:target="_blank" }
+            - Podcast commun HLP - SES : ["Qui suis-je ?"](https://rollauda.github.io){:target="_blank" }
 
       - layout: left
         title: Reconstitutions de procès 
-        link: rollauda.github.io
-        # link_text: rollauda.github.io
-        sub_title: EN Option DGEMC, nous avons reconstitué des procès.
+        link: rollauda.github.io/dgemc
+        link_text: Site de l'option DGEMC
+        sub_title: EN Option DGEMC, j'organise chaque année avec les élèves la reconstitution d'un procès.
         caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-            - 2023 : L'Humanité contre la Nature
             - 2024 : Le procès de Jacqueline Sauvage
+            - 2023 : L'Humanité contre la Nature
 
       - layout: left
         title: Organisation de conférences 
-        link: rollauda.github.io
-        # link_text: rollauda.github.io
-        sub_title: EN Option DGEMC, nous avons organisé des conférences.
+        link: rollauda.github.io/dgemc
+        link_text: Site de l'option DGEMC
+        sub_title: EN Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.
         caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-            Description
+            - 2024 : Le dopage
+            - 2023 : Le féminicide 
 
       - layout: left
         title: Ateliers d'écriture 
         link: rollauda.github.io
         # link_text: rollauda.github.io
-        sub_title: Productions audio d'élèves dans le cadre des cours de philosophie (HLP)
-        caption: 2023 - 2024
+        caption: 2015 - 2023
         description: | # this will include new lines to allow paragraphs
-            Description
+            - 2018 : Roman collectif de science fiction en 3° (Quito, Équateur)
+            - 2015 : Écoles primaire Calandreta de Nîmes (30)
+            - 2010 - 2018 : Ateliers dans des salons du livre (Besançon, Troyes, Rennes)
 
   - title: Diplômes
     layout: text
