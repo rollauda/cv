@@ -57,11 +57,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   Je suis professeur de philosophie au Lycée français La Condamine (Quito, Équateur). 
 
-  Vous pouvez découvrir mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io){:target="_blank" }.
+  Vous pouvez consulter mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io){:target="_blank" }.
 
   Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques) et [mes diplômes](#diplômes).
   
-  J'écris depuis 2007 des [romans-jeunesse](#romans) publiés aux éditions Sarbacane, Casterman et Lunii.
+  J'écris des [romans-jeunesse](#romans) publiés aux éditions Sarbacane, Casterman et Lunii.
 
 content:
   - title: Parcours professionnel # Title for the section
@@ -72,17 +72,22 @@ content:
         title: Professeur de philosophie
         caption: 1997 → Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          - **Équateur** (Quito) : professeur détaché, 2022 → Aujourd'hui 
-          - **France** (Académies de Bordeaux et de Montpellier) : 2009 - 2018
-          - **Algérie** (Alger) : 2007 - 2009
-          - **Équateur** (Quito) : professeur résident, 2003-2006
-          - **France** (Académies de Besançon et de Grenoble) : 1997 - 2002
+          - **Équateur** (Quito) : professeur détaché
+            - 2022 → Aujourd'hui 
+          - **France** (Académies de Bordeaux et de Montpellier)
+            - 2009 - 2018
+          - **Algérie** (Alger)
+            - 2007 - 2009
+          - **Équateur** (Quito) : professeur résident
+            - 2003-2006
+          - **France** (Académies de Besançon et de Grenoble)
+            - 1997 - 2002
       - layout: left
         border: weak
-        title: Professeur d'histoire-géographie
+        title: Professeur d'H-G
         caption: 2018 - 2022
         description: | # this will include new lines to allow paragraphs
-          - **Équateur** (Quito) : Professeur en contrat local d'histoire-géographie (6°, 4°, 3°) 
+          - **Équateur** (Quito) : Professeur d'histoire-géographie en contrat local (niveaux 6°, 4°, 3°) 
 
       - layout: left
         title: Journaliste
@@ -102,7 +107,7 @@ content:
         # sub_title: 
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-            **Rencontres philosophiques entre élèves de Terminale et de CM2.**   
+            <mark>Rencontres philosophiques entre élèves de Terminale et de CM2.</mark>   
             Chaque année, mes élèves de Terminale se joignent à une classe de CM1-CM2 pour un atelier philosophie.  
             - 2024 : [Qu'est-ce que la beauté ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Amandine Tarter)  
             - 2023 : [Qu'est-ce qu'une grande personne ?](https://rollauda.github.io){:target="_blank" } (avec les classes d'Olivier Pie et Marion Huirois)
@@ -113,7 +118,7 @@ content:
         # link_text: Lien vers les podcasts
         # caption: 2023 - 2024
         description: | # this will include new lines to allow paragraphs
-            **Productions audio d'élèves dans le cadre des cours de philosophie (HLP)**  
+            <mark>Productions audio d'élèves dans le cadre des cours de philosophie (HLP)</mark>  
             - Complément du cours de philosophie : ["Doit-on avoir pitié ?"](https://rollauda.github.io){:target="_blank" }
             - Podcast commun HLP - SES : ["Qui suis-je ?"](https://rollauda.github.io){:target="_blank" }
 
@@ -124,7 +129,7 @@ content:
         link_text: Site de l'option DGEMC
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-          **EN Option DGEMC, j'organise chaque année avec les élèves la reconstitution d'un procès.**    
+          <mark>EN Option DGEMC (Droit et Grands Enjeux du Monde Contemporain), j'organise chaque année avec les élèves la reconstitution d'un procès.</mark>    
             - 2024 : Le procès de Jacqueline Sauvage
             - 2023 : L'Humanité contre la Nature
 
@@ -135,13 +140,13 @@ content:
         link_text: Site de l'option DGEMC
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-          **En Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.**  
+          <mark>En Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.</mark>  
             - 2024 : Le dopage
             - 2023 : Le féminicide 
 
       - layout: left
         title: Ateliers d'écriture 
-        link: rollauda.github.io
+        # link: rollauda.github.io
         # link_text: rollauda.github.io
         # caption: 2015 - 2023
         description: | # this will include new lines to allow paragraphs
@@ -186,6 +191,15 @@ content:
   
   - title: Diplômes
     layout: text
+    #    link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #    link_text: Link Text
+    #    additional_links:
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
     content: | # this will include new lines to allow paragraphs
       - Maîtrise de philosophie (1994)
       - CAPES de philosophie (1995)
