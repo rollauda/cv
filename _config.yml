@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Rolland Auda
-title: Professeur de philosophie 
-subtitle: Écrivain jeunesse
+title: Professeur de philosophie et écrivain
 # email: 
 email: auda.rolland@condamine.edu.ec
 email_title: Email
@@ -60,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Vous pouvez consulter mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io){:target="_blank" }.
 
-  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques) et [mes diplômes](#diplômes).
+  Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques), [mes diplômes](#diplômes) et [mes compétences en numérique](#compétences-numériques).
   
   J'écris des [romans-jeunesse](#romans) publiés aux éditions Sarbacane, Casterman et Lunii.
 
@@ -152,8 +151,33 @@ content:
         # caption: 2015 - 2023
         description: | # this will include new lines to allow paragraphs
             - 2018 : Roman collectif de science fiction en 3° (Quito, Équateur)
-            - 2015 : École primaire Calandreta de Nîmes (30)
+            - 2015 - 2017 : École primaire Calandreta de Nîmes (30)
             - 2010 - 2018 : Ateliers dans des salons du livre (Besançon, Troyes, Rennes)
+
+  - title: Diplômes
+    layout: text
+    #    link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #    link_text: Link Text
+    #    additional_links:
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    content: | # this will include new lines to allow paragraphs
+      - **Maîtrise de philosophie** (1994)
+      - **CAPES de philosophie** (1995)
+      - **Certification EN : DNL espagnol – philosophie** (2010)
+      - **Certification EN : Cinéma-Audiovisuel** (2019)
+
+  - title: Compétences numériques
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Création et administration de sites web** (préférence pour les sites statiques et durables : markdown + jekyll + github-pages)
+      - **Montage audio** (diverses applications dont logiciels libres et gratuits : Reaper)
+      - **Montage vidéo** (diverses applications dont logiciels libres et gratuits : Da Vinci Resolve)
+      - **Design graphique** (édition image et photo, mise en page, etc.)
 
   - title: Romans # Title for the section
     layout: list # Type of content section (list/text)
@@ -190,23 +214,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - **Panique Robotique** (2023) : livre audio, à écouter sur l'appareil FLAM de l'éditeur Lunii
   
-  - title: Diplômes
-    layout: text
-    #    link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-    #    link_text: Link Text
-    #    additional_links:
-    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
-    #        icon: fab fa-github
-    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
-    #        icon: fab fa-github
-    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-    content: | # this will include new lines to allow paragraphs
-      - Maîtrise de philosophie (1994)
-      - CAPES de philosophie (1995)
-      - Certification DNL espagnol / philosophie (2010)
-      - Certification Cinéma-Audiovisuel (2019)
-
 # Footer
 footer_show_references: true
 references_title: Réferences sur demande
