@@ -13,7 +13,7 @@ email: auda.rolland@condamine.edu.ec
 email_title: Email
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://rollauda.github.io
+website: https://profauda.fr
 website_title: Site des leçons
 
 # Dark Mode (true/false/never)
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Je suis professeur de philosophie au Lycée français La Condamine (Quito, Équateur). 
 
-  Vous pouvez consulter mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://rollauda.github.io){:target="_blank" }.
+  Vous pouvez consulter mes cours de philosophie (Tronc commun et HLP), de cinéma (Spécialité CAV) et de droit (Option DGEMC) [sur cette autre page](https://profauda.fr){:target="_blank" }.
 
   Ci-dessous, vous trouverez [mon parcours](#parcours-professionnel), [mes actions pédagogiques](#actions-pédagogiques), [mes diplômes](#diplômes) et [mes compétences en numérique](#compétences-numériques).
   
@@ -102,7 +102,7 @@ content:
       - layout: left
         border: weak
         title: Ateliers de philosophie 
-        link: rollauda.github.io/pod
+        link: profauda.fr/pod
         link_text: Lien vers les ateliers
         # sub_title: 
         # caption: 2022 - 2024
@@ -114,7 +114,7 @@ content:
       - layout: left
         border: weak
         title: Podcasts d'élèves 
-        link: rollauda.github.io/pod
+        link: profauda.fr/pod
         link_text: Lien vers les podcasts
         # caption: 2023 - 2024
         description: | # this will include new lines to allow paragraphs
@@ -125,7 +125,7 @@ content:
       - layout: left
         border: weak
         title: Reconstitutions de procès 
-        link: rollauda.github.io/dgemc
+        link: dgemc.profauda.fr
         link_text: Site de l'option DGEMC
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
@@ -136,7 +136,7 @@ content:
       - layout: left
         border: weak
         title: Organisation de conférences 
-        link: rollauda.github.io/dgemc
+        link: dgemc.profauda.fr
         link_text: Site de l'option DGEMC
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
