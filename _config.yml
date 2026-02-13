@@ -130,8 +130,9 @@ content:
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
           **En Option DGEMC (Droit et Grands Enjeux du Monde Contemporain), j'organise chaque année avec les élèves la reconstitution d'un procès.**    
-            - 2024 : Le procès de Jacqueline Sauvage
-            - 2023 : L'Humanité contre la Nature
+            - 2024-2025 : Proces au tribunal correctionnel
+            - 2023 : Le procès de Jacqueline Sauvage
+            - 2022 : L'Humanité contre la Nature
 
       - layout: left
         border: weak
@@ -140,9 +141,11 @@ content:
         link_text: Site de l'option DGEMC
         # caption: 2022 - 2024
         description: | # this will include new lines to allow paragraphs
-          **En Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.**  
-            - 2024 : Le dopage
-            - 2023 : Le féminicide 
+          **En Option DGEMC, j'organise chaque année avec les élèves une conférence afin d'interroger un thème contemporain sous l'angle du droit.**
+            - 2025 : La prison
+            - 2024 : Le plusrijuridisme en Èquateur
+            - 2023 : Le dopage
+            - 2022 : Le féminicide 
 
       - layout: left
         title: Ateliers d'écriture 
